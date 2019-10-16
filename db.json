@@ -6,11 +6,11 @@
   ],
   "cities":[
     {
-    nome: 'Maringá',
-    estado: 'PR',
-    lat: -23.4273,
-    lng: -51.9375,
-    sistemas: ['Coca', 'Pepsi', 'Guaraná Jesus']
+    "nome": "Maringá",
+    "estado": "PR",
+    "lat": "-23.4273",
+    "lng: "-51.9375",
+    "sistemas": "['Coca', 'Pepsi', 'Guaraná Jesus']"
   },{
     nome: 'Mandaguari',
     estado: 'PR',
