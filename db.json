@@ -4,6 +4,27 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "cities":[
+    {
+    nome: 'Maringá',
+    estado: 'PR',
+    lat: -23.4273,
+    lng: -51.9375,
+    sistemas: ['Coca', 'Pepsi', 'Guaraná Jesus']
+  },{
+    nome: 'Mandaguari',
+    estado: 'PR',
+    lat: -23.5479,
+    lng: -51.6701,
+    sistemas: ['Brahma', 'Skol', 'Bud']
+  },{
+    nome: 'Rondon',
+    estado: 'solido',
+    lat: -23.4214,
+    lng: -52.7695,
+    sistemas: ['Vodka', 'Skol BEATS', 'Cerveja']
+  }    
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
