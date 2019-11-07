@@ -35,6 +35,21 @@
       "foto": "http://lorempixel.com/200/100/",
       "qtde_vagas": "8",
       "responsavel": "Josi de La Paz"
+    },
+    ,
+    {
+      "id":3,
+      "nome": "Rep Havana's house",
+      "foto": "http://lorempixel.com/200/100/",
+      "qtde_vagas": "1",
+      "responsavel": "Juan Muller"
+    },
+    {
+      "id":4,
+      "nome": "Republica Cuba Lança Nova Música",
+      "foto": "http://lorempixel.com/200/100/",
+      "qtde_vagas": "10",
+      "responsavel": "Primo Benny"
     }
   ]
 }
