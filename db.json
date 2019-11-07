@@ -25,14 +25,14 @@
      {
       "id":1,
       "nome": "Republica 401",
-      "foto": "http://lorempixel.com/50/50/",
+      "foto": "http://lorempixel.com/200/100/",
       "qtde_vagas": "2",
       "responsavel": "Alfredo Matenhein da Silva"
     },
     {
       "id":2,
       "nome": "Casa da Mãe Joana",
-      "foto": "http://lorempixel.com/50/50/",
+      "foto": "http://lorempixel.com/200/100/",
       "qtde_vagas": "8",
       "responsavel": "Josi de La Paz"
     }
