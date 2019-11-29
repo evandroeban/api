@@ -1,31 +1,31 @@
 {
-  "lista_republica": [
+  "heroes": [
     {
       "id":1,
-      "nome": "Republica 401",
-      "foto": "http://lorempixel.com/50/50/"
+      "name": "Spider Man",
+      "thumb_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg"
     },
     {
       "id":2,
-      "nome": "Casa da Mãe Joana",
-      "foto": "http://lorempixel.com/50/50/"
+      "name": "Iron Man",
+      "thumb_url": "https://simplifiedcoding.net/demos/view-flipper/images/ironman.jpg"
     },
     {
       "id":3,
-      "nome": "Rep Havana's house",
-      "foto": "http://lorempixel.com/50/50/"
+      "name": "Wolverine",
+      "thumb_url": "https://simplifiedcoding.net/demos/view-flipper/images/wolverine.jpeg"
     },
     {
       "id":4,
-      "nome": "Republica Cuba Lança Nova Música",
-      "foto": "http://lorempixel.com/50/50/"
+      "name": "Thor",
+      "thumb_url": "https://simplifiedcoding.net/demos/view-flipper/images/thor.jpg"
     }
   ],
-  "republica_busca": [
+  "heroes_description": [
      {
       "id":1,
-      "nome": "Republica 401",
-      "foto": "http://lorempixel.com/200/100/",
+      "name": "Spider Man",
+      "photo_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg",
       "qtde_vagas": "2",
       "responsavel": "Alfredo Matenhein da Silva"
     },
