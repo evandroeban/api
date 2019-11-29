@@ -2,7 +2,7 @@
   "heroes": [
     {
       "id":1,
-      "name": "Spider Man",
+      "name": "Spider-Man",
       "thumb_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg"
     },
     {
@@ -24,31 +24,31 @@
   "heroes_description": [
      {
       "id":1,
-      "name": "Spider Man",
+      "name": "Spider-Man",
       "photo_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg",
-      "qtde_vagas": "2",
-      "responsavel": "Alfredo Matenhein da Silva"
-    },
-    {
-      "id":2,
-      "nome": "Casa da Mãe Joana",
-      "foto": "http://lorempixel.com/200/100/",
-      "qtde_vagas": "8",
-      "responsavel": "Josi de La Paz"
+      "about": "In Forest Hills, Queens, New York, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (August 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and acquires the agility and proportionate strength of an arachnid.",
+      "creator": "Created by writer-editor Stan Lee and writer-artist Steve Ditko."
     },
      {
-      "id":3,
-      "nome": "Rep Havana's house",
-      "foto": "http://lorempixel.com/200/100/",
-      "qtde_vagas": "1",
-      "responsavel": "Juan Muller"
+      "id":2,
+      "name": "Spider-Man",
+      "photo_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg",
+      "about": "In Forest Hills, Queens, New York, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (August 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and acquires the agility and proportionate strength of an arachnid.",
+      "creator": "Created by writer-editor Stan Lee and writer-artist Steve Ditko."
     },
-    {
+      {
+      "id":3,
+      "name": "Spider-Man",
+      "photo_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg",
+      "about": "In Forest Hills, Queens, New York, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (August 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and acquires the agility and proportionate strength of an arachnid.",
+      "creator": "Created by writer-editor Stan Lee and writer-artist Steve Ditko."
+    },
+      {
       "id":4,
-      "nome": "Republica Cuba Lança Nova Música",
-      "foto": "http://lorempixel.com/200/100/",
-      "qtde_vagas": "10",
-      "responsavel": "Primo Benny"
+      "name": "Spider-Man",
+      "photo_url": "https://simplifiedcoding.net/demos/view-flipper/images/spiderman.jpg",
+      "about": "In Forest Hills, Queens, New York, Midtown High School student Peter Benjamin Parker is a science-whiz orphan living with his Uncle Ben and Aunt May. As depicted in Amazing Fantasy #15 (August 1962), he is bitten by a radioactive spider (erroneously classified as an insect in the panel) at a science exhibit and acquires the agility and proportionate strength of an arachnid.",
+      "creator": "Created by writer-editor Stan Lee and writer-artist Steve Ditko."
     }
   ]
 }
